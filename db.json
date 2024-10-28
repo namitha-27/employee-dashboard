@@ -1,0 +1,49 @@
+{
+    "stats": {
+      "newHires": 10,
+      "activePeople": 250
+    },
+    "employees": [
+      {
+        "id": 1,
+        "fullName": "John Doe",
+        "employeeId": "E001",
+        "userId": "U001",
+        "hireDate": "2023-01-15",
+        "event": "Joined",
+        "position": "Software Engineer",
+        "netSalary": "$5000"
+      },
+      {
+        "id": 2,
+        "fullName": "Jane Smith",
+        "employeeId": "E002",
+        "userId": "U002",
+        "hireDate": "2022-07-20",
+        "event": "Promotion",
+        "position": "Senior Developer",
+        "netSalary": "$6000"
+      },
+      {
+        "id": 3,
+        "fullName": "Namitha",
+        "employeeId": "E002",
+        "userId": "U002",
+        "hireDate": "2022-07-20",
+        "event": "Promotion",
+        "position": "Senior Developer",
+        "netSalary": "$6000"
+      },
+      {
+        "id": 4,
+        "fullName": "Chinmaye",
+        "employeeId": "E002",
+        "userId": "U002",
+        "hireDate": "2022-07-20",
+        "event": "Promotion",
+        "position": "Senior Developer",
+        "netSalary": "$6000"
+      }
+    ]
+  }
+  
